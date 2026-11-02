@@ -1,18 +1,18 @@
 [
   {
-    "name": "tau1_Sensors",
+    "Name": "tau1_Sensors",
     "C": 1,
     "T": 4,
     "D": 4
   },
   {
-    "name": "tau2_Control",
+    "Name": "tau2_Control",
     "C": 2,
     "T": 6,
     "D": 6
   },
   {
-    "name": "tau3_Network",
+    "Name": "tau3_Network",
     "C": 1,
     "T": 8,
     "D": 8
